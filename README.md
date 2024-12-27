@@ -8,5 +8,5 @@ Welcome to Utkarsh's github 🚀
 - 💬 Ask me about web development tips and tricks 
 - 📫 How to reach me: utk0703@gmail.com || https://www.linkedin.com/in/utkarsh-tiwari-b5b034250/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not coding for life, my life is coding and creating crazy stuffs
+- ⚡ Fun fact: I don’t always test my code, but when I do, I do it in production. 💀☠️
 
