@@ -26,7 +26,8 @@ Life is a lesson, I'm passing a test🚀
 </div>
 
 ---
-## 🚀 My Open Source Contributions
+## 🚀 My Open Source Contributions 
+(_This file is regularly updated as I contribute to more projects!_)
 | Organization Name | Repository | Type | Link |
 |--------------|-------------|--------------|------------|
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#1711](https://github.com/json-schema-org/website/pull/1711) |
