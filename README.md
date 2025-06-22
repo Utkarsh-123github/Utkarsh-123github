@@ -4,9 +4,10 @@
 
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Utkarsh Tiwari🚀
-Far from the rest but I'm far from my best. 
+<p>Far from the rest but I'm far from my best. 
 <br/>
-Life is a lesson, I'm passing a test🚀
+Life is a lesson, I'm passing a test🚀</p>
+
 ---
 ## 🌱 Let's Connect
 
