@@ -45,7 +45,7 @@ Life is a lesson, I'm passing a test🚀</p>
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1218](https://github.com/json-schema-org/website/pull/1218) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1180](https://github.com/json-schema-org/website/pull/1180) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Open) | [#1729](https://github.com/json-schema-org/website/pull/1729) |
-| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Open) | [#1741](https://github.com/json-schema-org/website/pull/1741) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1741](https://github.com/json-schema-org/website/pull/1741) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1647](https://github.com/json-schema-org/website/issues/1647) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1559](https://github.com/json-schema-org/website/issues/1559) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1558](https://github.com/json-schema-org/website/issues/1558) |
