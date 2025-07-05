@@ -58,6 +58,7 @@ Life is a lesson, I'm passing a test🚀</p>
 | [**JSON Schema**](https://github.com/json-schema-org) | [Landscape](https://github.com/json-schema-org/landscape) | PR (Merged) | [#117](https://github.com/json-schema-org/landscape/pull/117) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Landscape](https://github.com/json-schema-org/landscape) | PR (Merged) | [#116](https://github.com/json-schema-org/landscape/pull/116) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Landscape](https://github.com/json-schema-org/landscape) | PR (Merged) | [#118](https://github.com/json-schema-org/landscape/pull/118) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Community](https://github.com/json-schema-org/community) | PR (Open) | [#931](https://github.com/json-schema-org/community/pull/931) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Community](https://github.com/json-schema-org/community) | Accepted Issue | [#926](https://github.com/json-schema-org/community/issues/926) |
 | [**Async API**](https://github.com/asyncapi) | [Website](https://github.com/asyncapi/website) | PR (Merged) | [#3497](https://github.com/asyncapi/website/pull/3497) |
 
