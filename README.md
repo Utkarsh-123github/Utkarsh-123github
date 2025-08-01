@@ -44,8 +44,9 @@ Life is a lesson, I'm passing a test🚀</p>
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1503](https://github.com/json-schema-org/website/pull/1503) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1218](https://github.com/json-schema-org/website/pull/1218) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1180](https://github.com/json-schema-org/website/pull/1180) |
-| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Open) | [#1729](https://github.com/json-schema-org/website/pull/1729) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1729](https://github.com/json-schema-org/website/pull/1729) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1741](https://github.com/json-schema-org/website/pull/1741) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1760](https://github.com/json-schema-org/website/pull/1760) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1647](https://github.com/json-schema-org/website/issues/1647) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1559](https://github.com/json-schema-org/website/issues/1559) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1558](https://github.com/json-schema-org/website/issues/1558) |
@@ -58,7 +59,7 @@ Life is a lesson, I'm passing a test🚀</p>
 | [**JSON Schema**](https://github.com/json-schema-org) | [Landscape](https://github.com/json-schema-org/landscape) | PR (Merged) | [#117](https://github.com/json-schema-org/landscape/pull/117) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Landscape](https://github.com/json-schema-org/landscape) | PR (Merged) | [#116](https://github.com/json-schema-org/landscape/pull/116) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Landscape](https://github.com/json-schema-org/landscape) | PR (Merged) | [#118](https://github.com/json-schema-org/landscape/pull/118) |
-| [**JSON Schema**](https://github.com/json-schema-org) | [Community](https://github.com/json-schema-org/community) | PR (Open) | [#931](https://github.com/json-schema-org/community/pull/931) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Community](https://github.com/json-schema-org/community) | PR (Merged) | [#931](https://github.com/json-schema-org/community/pull/931) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Community](https://github.com/json-schema-org/community) | Accepted Issue | [#926](https://github.com/json-schema-org/community/issues/926) |
 | [**Async API**](https://github.com/asyncapi) | [Website](https://github.com/asyncapi/website) | PR (Merged) | [#3497](https://github.com/asyncapi/website/pull/3497) |
 
