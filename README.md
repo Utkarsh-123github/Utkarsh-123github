@@ -48,11 +48,13 @@ Life is a lesson, I'm passing a test🚀</p>
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1741](https://github.com/json-schema-org/website/pull/1741) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1760](https://github.com/json-schema-org/website/pull/1760) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1955](https://github.com/json-schema-org/website/pull/1955) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR(Merged) | [#1984](https://github.com/json-schema-org/website/pull/1984) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1647](https://github.com/json-schema-org/website/issues/1647) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1559](https://github.com/json-schema-org/website/issues/1559) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1558](https://github.com/json-schema-org/website/issues/1558) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1698](https://github.com/json-schema-org/website/issues/1698) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1956](https://github.com/json-schema-org/website/issues/1956) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | Accepted Issue | [#1983](https://github.com/json-schema-org/website/issues/1983) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Conference](https://github.com/json-schema-org/conference) | PR (Merged) | [#60](https://github.com/json-schema-org/conference/pull/60) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Conference](https://github.com/json-schema-org/conference) | PR (Merged) | [#62](https://github.com/json-schema-org/conference/pull/62) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Conference](https://github.com/json-schema-org/conference) | Accepted Issue | [#61](https://github.com/json-schema-org/conference/issues/61) |
